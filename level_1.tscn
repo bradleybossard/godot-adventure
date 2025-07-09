@@ -4,7 +4,7 @@
 
 [node name="Level 1" type="Node2D"]
 
-[node name="Icon" type="Sprite2D" parent="."]
+[node name="MySprite" type="Sprite2D" parent="."]
 position = Vector2(859, 466)
 rotation = -0.785397
 scale = Vector2(1.95611, 1.95611)
