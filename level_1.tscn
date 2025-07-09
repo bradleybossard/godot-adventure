@@ -9,11 +9,3 @@ position = Vector2(859, 466)
 rotation = -0.785397
 scale = Vector2(1.95611, 1.95611)
 texture = ExtResource("1_3hls8")
-
-[node name="Icon2" type="Sprite2D" parent="."]
-position = Vector2(1786, 484)
-texture = ExtResource("1_3hls8")
-
-[node name="Icon3" type="Sprite2D" parent="."]
-position = Vector2(1270, 1000)
-texture = ExtResource("1_3hls8")
