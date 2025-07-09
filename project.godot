@@ -15,6 +15,12 @@ run/main_scene="uid://cbo4a85xmqovn"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[file_customization]
+
+folder_colors={
+"res://Ninja Adventure - Asset Pack/": "green"
+}
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
